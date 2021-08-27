@@ -17,4 +17,4 @@ After doing this, type "help" for info about commands.
 Also after doing this, you only need ```~/orang.sh/orang.sh``` since the file has been given access to be executed.
 
 ## to-do
-more language support, X
+different language's for more user-friendly'ness, X
