@@ -7,8 +7,7 @@ git clone https://github.com/kwes/orang.sh.git
 ```
 or simply extract the zip.
 
-## running
-This part kinda depends on your terminal.
+## running and setup
 ```
 chmod u+x ~/orang.sh/orang.sh
 ~/orang.sh/orang.sh
