@@ -14,4 +14,7 @@ chmod u+x ~/orang.sh/orang.sh
 ~/orang.sh/orang.sh
 ```
 After doing this, type "help" for info about commands.
-Also after doing this, you only need ```~/orang.sh/orang.sh```
+Also after doing this, you only need ```~/orang.sh/orang.sh``` since the file has been given access to be executed.
+
+## to-do
+more language support, X
