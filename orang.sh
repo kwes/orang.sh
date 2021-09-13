@@ -19,7 +19,7 @@ do
   if [ $ans2 = orng_update ]
   then
     sudo apt update
-    echo update done
+    echo listed available updates done
   fi
 
   echo -e "${RED} orang-$ ${ENDCOLOR}"
